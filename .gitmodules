@@ -1,3 +1,27 @@
 [submodule "FCSE-Video-Games"]
 	path = FCSE-Video-Games
 	url = https://github.com/zelenkastiot/FCSE-Video-Games
+[submodule "FCSE-Artificial-Intelligence"]
+	path = FCSE-Artificial-Intelligence
+	url = https://github.com/zelenkastiot/FCSE-Artificial-Intelligence
+[submodule "FCSE-Modeling-and-Simulation"]
+	path = FCSE-Modeling-and-Simulation
+	url = https://github.com/zelenkastiot/FCSE-Modeling-and-Simulation
+[submodule "FCSE-Image-Processing"]
+	path = FCSE-Image-Processing
+	url = https://github.com/zelenkastiot/FCSE-Image-Processing
+[submodule "FCSE-Digital-Signal-Processing"]
+	path = FCSE-Digital-Signal-Processing
+	url = https://github.com/zelenkastiot/FCSE-Digital-Signal-Processing
+[submodule "FCSE-Data-Mining"]
+	path = FCSE-Data-Mining
+	url = https://github.com/zelenkastiot/FCSE-Data-Mining
+[submodule "FCSE-Multimedia-Systems"]
+	path = FCSE-Multimedia-Systems
+	url = https://github.com/zelenkastiot/FCSE-Multimedia-Systems
+[submodule "FCSE-Biocybernetics"]
+	path = FCSE-Biocybernetics
+	url = https://github.com/zelenkastiot/FCSE-Biocybernetics
+[submodule "FCSE-Methodology-in-Research"]
+	path = FCSE-Methodology-in-Research
+	url = https://github.com/zelenkastiot/FCSE-Methodology-in-Research
